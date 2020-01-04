@@ -1,0 +1,13 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+}
+
+.card {
+    padding: 20px;
+}
+
+.row {
+    justify-content: center;
+}
